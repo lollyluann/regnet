@@ -1,7 +1,11 @@
 .Rproj.user
+.Rproj
 .Rhistory
 .RData
 .Ruserdata
+.pdf
 dataGenerator.R
 intercept.R
+oldcode.R
 cran-comments.md
+regnet.pdf
